@@ -397,7 +397,7 @@ export class Message {
         }
         switch (txt) {
             case 'hey':
-                body = 'Hi there!'
+                body = 'Hi there! how are you'
                 log = true
                 break
             case 'test':
